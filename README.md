@@ -14,9 +14,9 @@ deve ser considerado como parte de uma longa caminhada no desenvolvimento web.
 
 ## Funcionalidades
 
-- [Funcionalidades detalhadas](./src/README_js_explicacao.md)
+- [Funcionalidades detalhadas do Script em JS](./src/README_js_explicacao.md)
 - 
-- [Funcionalidades detalhadas](./src/README_css_explicacao.md)
+- [Funcionalidades detalhadas da Estilização em CSS3](./src/README_css_explicacao.md)
 
 
 ## Tecnologias Utilizadas
